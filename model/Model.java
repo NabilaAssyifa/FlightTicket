@@ -1,4 +1,4 @@
-package com.smk.com.smk.model;
+package com.smk.model;
 
 import java.util.Date;
 
